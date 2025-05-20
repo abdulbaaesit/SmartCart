@@ -1,0 +1,241 @@
+    -------------------------------------------------------MEN---------------------------------------------------------------------------------
+
+    Name: Turtle Check Men Navy Blue Shirt
+    Description: A Navy Blue Shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+     
+
+    Name: Manchester United Men Solid Black Track Pants
+    Description: A Black Track Pant perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+  
+
+    Name: Puma Men Grey T-shirt
+    Description: A Grey T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+  
+    Name: Inkfruit Men Chain Reaction T-shirt
+    Description: A Grey T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Fabindia Men Striped Green Shirt
+    Description: A Green Shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Reid & Taylor Men Check Purple Shirts
+    Description: A Purple Shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: ADIDAS Men Lfc Auth Hood Grey Sweatshirts
+    Description: A Grey Sweatshirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Fila Men's Round Neck Navy Blue T-shirt
+    Description: A Navy Blue T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: John Players Men Navy Blue Shirt
+    Description: A Navy Blue Shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: John Players Men Brown Shirt
+    Description: A Brown Shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Puma Men Long Logo Black Bermuda
+    Description: A Black Shorts perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: John Miller Men Stripes White Red Shirts
+    Description: A Red Shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+  
+
+    Name: Puma Men's Stripe Polo Black T-shirt
+    Description: A Black T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Gini and Jony Boy's Kaleb White Brown Kidswear
+    Description: A White Shirt perfect for Summer.
+    Size: S,M,L
+    Category: Clothing
+
+
+    Name: Wrangler Men Motor Rider Red T-Shirt
+    Description: A Red T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Puma Men Scribble Black T-shirt
+    Description: A Black T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Do U Speak Green Men Blue Shorts
+    Description: A Blue Shorts perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Indigo Nation Men Reversible Bling Pink Shirt
+    Description: A Pink Shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+  
+    Name: ADIDAS Men Blue Sweatshirt
+    Description: A Blue Sweatshirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Manchester United Men Solid Red T-shirt
+    Description: A Red T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+-------------------------------------------------------WOMEN---------------------------------------------------------------------------------
+
+    Name: Jealous 21 Women Purple Shirt
+    Description: A Purple Shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Jealous 21 Women Pink T-shirt
+    Description: A Pink T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Nike Women Purple Polo T-shirt
+    Description: A Purple T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Nike Women Black T-shirt
+    Description: A Black T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: United Colors Of Benetton Women Light Winter Black Sweatshirt
+    Description: A Black Sweatshirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Nike Women Solid Pink Shorts
+    Description: A Pink Shorts perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+    Name: Little Miss Women Printed Grey T-shirt
+    Description: A Grey T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Tantra Women Flower Heart Black Long T-shirt
+    Description: A Black T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category": Clothing
+
+
+    Name: Urban Yoga Women Printed Pink T-shirt
+    Description: A Pink T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Jockey Women Blue Lounge Pant
+    Description: A Blue Lounge Pant perfect for Winter.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Urban Yoga Women Black Track Pant
+    Description: A Black Track Pant perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Jockey Women Black Lounge Pant
+    Description: A Black Lounge Pant perfect for Winter.
+    Sizes: S,M,L
+    Category": Clothing
+
+
+    Name: Jealous 21 Women Red Peace T-shirt
+    Description: A Red T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Allen Solly Women Red Shorts
+    Description: A Red Shorts perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Arrow Woman Blue Shirt
+    Description: A Blue Shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Wrangler Women Pink T-shirt
+    Description: A Pink T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Nike Women's Smash Pink T-shirt
+    Description: A Pink T-shirt perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: Jockey Women Grey Melange Shorts
+    Description: A Grey Melange Shorts perfect for Winter.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: ADIDAS Women's Black T-shirt
+    Description: A Black T-shirt perfect for Fall.
+    Sizes: S,M,L
+    Category: Clothing
+
+
+    Name: ONLY Women Brown Shorts
+    Description: A Brown Shorts perfect for Summer.
+    Sizes: S,M,L
+    Category: Clothing
